@@ -1,2 +1,1 @@
-# Machine-Learning
-All ML concepts in python
+Multiple ML related concepts from beginner to advanced.
